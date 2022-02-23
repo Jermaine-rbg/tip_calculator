@@ -19,6 +19,11 @@ The completed finished expectations for this project:
 - Number of people splitting the bill
 - Percentage of the tip
 
+The terminal script output reads:
+
+- The total amount of bill
+- Tip percentage
+- Total number of people at the dinner party
 
 
 ## 🤝 Support
