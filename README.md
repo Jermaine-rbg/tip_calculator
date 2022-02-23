@@ -1,3 +1,3 @@
 # tip_calculator class project
 
-![screenshot](/screenshotpython.png)
+![screenshot](screenshotpython.png)
