@@ -6,7 +6,7 @@ The goal of this project is to make a tip calculator program in python and put t
 
 The completed finished expectations for this project:
 
-1. A Github repo was set up with a READ.md
+1. A Github repo was set up with a README.md
 2. A development branch was created through the terminal
 
 
