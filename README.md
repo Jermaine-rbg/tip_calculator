@@ -6,6 +6,8 @@ The goal of this project is to make a tip calculator program in python and put t
 
 - A dvelopment branch was created through the terminal
 
+The expectations for your finished project are:
+
 
 ## 🤝 Support
 
