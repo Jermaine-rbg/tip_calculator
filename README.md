@@ -5,7 +5,7 @@
 
 ## Available Commands
 
-This Project was bulit using Python 3, and can ran in the terminal
+This Project was bulit using Python 3, and can be ran in the terminal
 
 ### `npm start" : "react-scripts start"`,
 
@@ -42,7 +42,5 @@ For running the server and app together I am using concurrently this helps a lot
 - [Website](https://www.brandnetictechnologies.com/ "Welcome")
 
 ## 🤝 Support
-
-Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
