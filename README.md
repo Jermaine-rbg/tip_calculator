@@ -8,7 +8,7 @@ The completed finished expectations for this project:
 
 1. A Github repo was set up with a README.md
 2. A development branch was created through the terminal
-3. Working on the README.md markdown setup 
+3. README.md markdown setup 
 
 
 ## 🤝 Support
