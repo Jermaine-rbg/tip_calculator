@@ -1,7 +1,4 @@
 # print welecome to the tip calculator
-from tkinter import N
-
-
 print('Welcome to the tip calculator')
 
 # get the total bill amount from the customer to calculate
