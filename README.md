@@ -13,7 +13,7 @@ The completed finished expectations for this project:
 5. The tip calculator takes input from the user
 6. Comments are added to demonstrate how much I under stand the code 
 
-<h1 align="center"><Pyhon Tip Calculator>The Tip Calculator </h1>
+<h1 align="center"><Pyhon Tip Calculation>Tip Calculation </h1>
 
 
 
