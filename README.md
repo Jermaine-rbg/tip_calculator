@@ -25,6 +25,54 @@ The terminal script output reads:
 - Tip percentage
 - Total number of people at the dinner party
 
+The tip calculator handles any bill amount, tip percentage including 0%, and the number of people in attendance
+
+## Test Cases 
+
+A meal for 1
+Inputs
+
+- Food costs $15
+- 1 person paying
+- 20% tip
+- Expected output:
+
+- Total bill: $19.50
+- 
+A feast to remember
+Inputs
+
+- Food costs $25000000
+- 3 people paying
+- 31% tip
+
+Expected output:
+
+Total bill: $35,250,000.00
+Each person should pay $11,750,000.00
+No tip
+
+Inputs
+
+- Food costs $78.99
+- 6 people paying
+- 0 tip
+
+Expected output:
+
+Total bill: $86.89
+Each person should pay $14.48
+Sharing the bill among many
+Inputs:
+
+- Food costs $5000
+- 876 people paying
+- 12% tip
+- Expected output:
+
+Total bill: $6,100.00
+Each person should pay $6.96
+
 
 ## 🤝 Support
 
