@@ -4,7 +4,7 @@
 
 The goal of this project is to make a tip calculator program in python and put together a new Github repo for it.
 
-- A dvelopment branch was created through the terminal
+- A development branch was created through the terminal
 
 The expectations for your finished project are:
 
