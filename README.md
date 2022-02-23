@@ -9,6 +9,9 @@ The completed finished expectations for this project:
 1. A Github repo was set up with a README.md
 2. A development branch was created through the terminal
 3. README.md markdown setup 
+4. Program is currently running in the terminal
+5. The tip calculator takes input from the user
+6. Comments are added to demonstrate how much I under stand the code 
 
 
 ## 🤝 Support
