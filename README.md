@@ -15,6 +15,10 @@ The completed finished expectations for this project:
 
 <h1 align="center"><Pyhon Tip Calculation>Tip Calculation </h1>
 
+- Cost of food
+- Number of people splitting the bill
+- Percentage of the tip
+
 
 
 ## 🤝 Support
