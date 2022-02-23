@@ -38,7 +38,7 @@ Inputs
 - Expected output:
 
 - Total bill: $19.50
-- 
+
 A feast to remember
 Inputs
 
