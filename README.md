@@ -12,6 +12,7 @@ The completed finished expectations for this project:
 4. Program is currently running in the terminal
 5. The tip calculator takes input from the user
 6. Comments are added to demonstrate how much I under stand the code 
+7. Code is broken down into logical and understandable functions 
 
 ## 💹 Tip Calculation
 
