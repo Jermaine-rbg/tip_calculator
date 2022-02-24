@@ -13,7 +13,7 @@ The completed finished expectations for this project:
 5. The tip calculator takes input from the user
 6. Comments are added to demonstrate how much I under stand the code 
 
-## Tip Calculation
+## 💹 Tip Calculation
 
 - Cost of food
 - Number of people splitting the bill
@@ -25,9 +25,9 @@ The terminal script output reads:
 - Tip percentage
 - Total number of people at the dinner party
 
-The tip calculator handles any bill amount, tip percentage including 0%, and the number of people in attendance
+This tip calculator handles any bill amount, tip percentage including 0%, and the number of people in attendance
 
-## Test Cases 
+## 🧪 Test Cases 
 
 A meal for 1
 Inputs
