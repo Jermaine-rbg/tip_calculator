@@ -29,4 +29,5 @@ split = round(final_bill / people)
 print(f'Total bill to pay: ${final_bill}', '\n')
 
 # printing the split total for each person to pay at the dinner party
-print(f'Each person owes ${split} towards dinner with tax and tip')
+print(f'Each person owes ${split} towards dinner with tax and tip', '\n')
+
