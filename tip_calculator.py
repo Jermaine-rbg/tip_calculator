@@ -30,14 +30,3 @@ print(f'Total bill to pay: ${final_bill}', '\n')
 
 # printing the split total for each person to pay at the dinner party
 print(f'Each person owes ${split} towards dinner with tax and tip', '\n')
-
-# giving the customer the option to add another tip
-# created a if elif statement to enter yes or no for additional tip
-# if Yes please re-run the tip calculator 
-# if No the print statment will output have a great day
-
-additional_tip = input('Would you like to enter another tip? (Yes/No) \n')
-if additional_tip == 'Yes':
-    bill_before_tip()
-elif additional_tip == 'No':
-    print("Have a great day!")
