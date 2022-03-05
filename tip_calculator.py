@@ -1,4 +1,4 @@
-# create a variable name and assign the string Ms. Johnson
+# created a variable name and assign the string Ms. Johnson
 # print how was your meal and here's the bill no rush with customer name
 customer_name = ('Ms. Johnson')
 print(f'How was your meal and here is the bill no rush {customer_name}. ', '\n')
@@ -7,10 +7,10 @@ print(f'How was your meal and here is the bill no rush {customer_name}. ', '\n')
 # next create a variable name bill equals to a input as a float with text enter the total bill amount
 bill = float(input('Total bill amount: '))
 
-# create a tip variable tip equals an input as a integer with the text 'enter tip percentage' using the (%) - modulus
+# created a tip variable tip equals an input as a integer with the text 'enter tip percentage' using the (%) - modulus
 tip = int(input('Enter tip percentage (%): '))
 
-# create a people variable peolpe equals an input as a integer with text 'split by how many'
+# created a people variable peolpe equals an input as a integer with text 'split by how many'
 people = int(input('Split by how many: '))
 
 # created a bill before tip variable equals what the bill is including the tip 
@@ -31,3 +31,13 @@ print(f'Total bill to pay: ${final_bill}', '\n')
 # printing the split total for each person to pay at the dinner party
 print(f'Each person owes ${split} towards dinner with tax and tip', '\n')
 
+# giving the customer the option to add another tip
+# created a if elif statement to enter yes or no for additional tip
+# if Yes please re-run the tip calculator 
+# if No the print statment will output have a great day
+
+additional_tip = input('Would you like to enter another tip? (Yes/No) \n')
+if additional_tip == 'Yes':
+    bill_before_tip()
+elif additional_tip == 'No':
+    print("Have a great day!")
