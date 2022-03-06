@@ -72,7 +72,7 @@ Inputs:
 Total bill: $6,100.00
 Each person should pay $6.96
 
-### For each test case input can be entered in the terminal and recieves the output desired in the requirments
+### Each test case input can be entered in the terminal and recieves the output desired in the requirments
 
 
 ## 🤝 Support
