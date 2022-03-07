@@ -4,13 +4,13 @@ customer_name = ('Ms. Johnson')
 print(f'How was your meal and here is the bill no rush {customer_name}. ', '\n')
 
 # get the total bill amount for the customer to calculate tip
-# created a variable name bill equals to a input as a float with text enter the total bill amount
+# created a variable name bill equals to a input as a float for the user to enter the total bill amount
 bill = float(input('Total bill amount: '))
 
-# created a tip variable tip equals an input as a integer with the text 'enter tip percentage' using the (%) - modulus
+# created a tip variable tip equals an input as a integer for the user to 'enter tip percentage' using the (%) - modulus operator
 tip = int(input('Enter tip percentage (%): '))
 
-# created a people variable peolpe equals an input as a integer with text 'split by how many'
+# created a people variable peolpe equals an input as a integer for the user to enter 'split by how many'
 people = int(input('Split by how many: '))
 
 # created a bill before tip variable equals what the bill is including the tip inputed
