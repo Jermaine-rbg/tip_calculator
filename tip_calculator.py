@@ -19,14 +19,16 @@ bill_before_tip = bill * (tip/100 + 1)
 # created a tax variable equals the bill multiplied by a 10% tax thats repersented by .1
 tax = bill * .1
 
-# created a final bill variable equals to the rounded bill total plus tax
-final_bill = round(bill_before_tip + tax, 3)
+# created a final bill variable equals to the bill total plus tax
+final_bill = bill_before_tip + tax
 
-# created a split variable equals to the rounded final bill divided by the number of people inputed
-split = round(final_bill / people)
+# created a split variable equals to the final bill divided by the number of people inputed
+split = "{:,.2f}".format(final_bill / people)
 
 # printing the total bill to pay with tax and tip
 print(f'Total bill to pay: ${final_bill}', '\n')
 
 # printing the split total for each person to pay at the dinner party
 print(f'Each person owes ${split} towards dinner with tax and tip', '\n')
+
+print("Thank you for dining with us.")
