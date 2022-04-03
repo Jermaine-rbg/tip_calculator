@@ -31,4 +31,4 @@ print(f'Total bill to pay: ${final_bill}', '\n')
 # printing the split total for each person to pay at the dinner party
 print(f'Each person owes ${split} towards dinner with tax and tip', '\n')
 
-print("Thank you for dining with us.")
+print("Thank you for dining with us.", '\n')
